@@ -27,11 +27,6 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
-    kotlinOptions {
-        jvmTarget = "17"
-    }
-
-    dependencies {
 }
 
 dependencies {
